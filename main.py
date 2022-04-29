@@ -129,6 +129,6 @@ async def cd(message):
         await message.channel.send(embed=embed)
 
 async def run():
-    await client.start('OTY5NDg0MzAwNjUzMzA1ODc5.YmuEnQ.WNu6zI7GnzCnV8IeRATw0HZJANg')
+    await client.start('your token')
 
 asyncio.run(run())
