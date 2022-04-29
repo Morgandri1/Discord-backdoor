@@ -14,6 +14,8 @@ commands:
 <br>.sys - runs sysinfo
 <br>.ss - takes a screenshot and sends to discord
 <br>.cd lets you cd into a directory and run commands from there
+  
+  obligitory dont be stupid and dont use this maliciously 
 
 old stuff:
 <br>
