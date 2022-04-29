@@ -1,4 +1,23 @@
 # MayorbotC2
+my version:
+<br>
+Hey there!
+this is a discord.py based backdoor for windows systems that can run system commands remotely, through discord.
+<br>
+commands:
+<br>.shutdown
+<br>.restart
+<br>.filegrab <filename>
+<br>.run <system command>
+<br>.exit - this stops the backdoor, only use if you're absolutely sure.
+<br>.ip - runs ipconfig
+<br>.sys - runs sysinfo
+<br>.ss - takes a screenshot and sends to discord
+<br>.cd lets you cd into a directory and run commands from there
+
+old stuff:
+<br>
+
 original: https://github.com/dievus/MayorbotC2
 
 
